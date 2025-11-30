@@ -29,3 +29,12 @@ TBD
 
 - Never commit `.env` files or API keys
 - See `.gitignore` for excluded files
+
+## 접속방법
+
+```
+source .venv/bin/activate # 파이썬 활성화
+adk web
+```
+
+접속 URL: http://127.0.0.1:8000/dev-ui/?app=travel_advisor_agent
